@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=LINK_ME_AND_HIDE_DESIGNATOR|SchDesignator=LINK_ME_AND_HIDE_DESIGNATOR|FileName=LEDMatrix.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=LEDMatrix.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Overview.SchDoc|FileName=Coloring.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Overview.SchDoc|FileName=Connectors.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Overview.SchDoc|FileName=Controller.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Overview.SchDoc|FileName=Matrix.SchDoc|SheetNumber=5

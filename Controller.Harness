@@ -1,0 +1,2 @@
+LED_CTRL=PWR[0..7],R[0..7],G[0..7],B[0..7]
+SPI=MOSI,MISO,SCK,CS
