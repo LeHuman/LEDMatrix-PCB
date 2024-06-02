@@ -1,6 +1,6 @@
 Record=TopLevelDocument|FileName=Overview.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=LINK_ME_AND_HIDE_DESIGNATOR|SchDesignator=LINK_ME_AND_HIDE_DESIGNATOR|FileName=LEDMatrix.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=LEDMatrix.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=Overview.SchDoc|FileName=Coloring.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Overview.SchDoc|FileName=Connectors.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Overview.SchDoc|FileName=Controller.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Overview.SchDoc|FileName=Matrix.SchDoc|SheetNumber=5
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=Coloring|SchDesignator=Coloring|FileName=Coloring.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Coloring.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Overview.SchDoc|Designator=LINK_ME_AND_HIDE_DESIGNATOR|SchDesignator=LINK_ME_AND_HIDE_DESIGNATOR|FileName=LEDMatrix.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=LEDMatrix.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LEDMatrix.SchDoc|Designator=Connectors|SchDesignator=Connectors|FileName=Connectors.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LEDMatrix.SchDoc|Designator=Controller|SchDesignator=Controller|FileName=Controller.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=LEDMatrix.SchDoc|Designator=Matrix|SchDesignator=Matrix|FileName=Matrix.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Matrix.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

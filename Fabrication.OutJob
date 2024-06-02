@@ -21,7 +21,7 @@ TargetOutputMedium=Fabrication Files
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HP3BC773.ht.home (HP ENVY 6000 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print To \\CLDFS01\Supply Room B&W
 OutputMedium1_Type=Printer
@@ -124,7 +124,7 @@ OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=1
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=AddLayersToGroup.Group_0=0|AddLayersToGroup.Group_1=1|AddLayersToGroup.Group_2=2|AddLayersToGroup.Group_3=3|AddLayersToGroup.Group_4=4|AddLayersToGroup.Group_5=5|AddLayersToGroup.Group_6=7|AddLayersToGroup.Group_7=8|AddLayersToGroup.Set_0= |AddLayersToGroup.Set_1= |AddLayersToGroup.Set_2= |AddLayersToGroup.Set_3= |AddLayersToGroup.Set_4= |AddLayersToGroup.Set_5= |AddLayersToGroup.Set_6= |AddLayersToGroup.Set_7=16908289|AddLayersToGroups.Count=8|AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=UBSPJPUF|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=500000000|FilmYSize=400000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777221~1,16842751~1,16973835~1,16973833~1,16973831~1,16777218~1,16777219~1,16777220~1,16973848~1,16973849~1,16908289~1,16908290~1,16908291~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=F:\GitHub\Altium\2040Macro-PCB\2040Macro.PcbDoc
+Configuration2_Item1=AddLayersToGroup.Group_0=0|AddLayersToGroup.Group_1=1|AddLayersToGroup.Group_2=2|AddLayersToGroup.Group_3=3|AddLayersToGroup.Group_4=4|AddLayersToGroup.Group_5=5|AddLayersToGroup.Group_6=7|AddLayersToGroup.Group_7=8|AddLayersToGroup.Set_0= |AddLayersToGroup.Set_1= |AddLayersToGroup.Set_2= |AddLayersToGroup.Set_3= |AddLayersToGroup.Set_4= |AddLayersToGroup.Set_5= |AddLayersToGroup.Set_6= |AddLayersToGroup.Set_7=16908289|AddLayersToGroups.Count=8|AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=YFJBTOVD|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=500000000|FilmYSize=400000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777221~1,16842751~1,16973835~1,16973833~1,16973831~1,16777218~1,16777219~1,16777220~1,16973848~1,16973849~1,16908289~1,16908290~1,16908291~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=F:\GitHub\Altium\LEDMatrix-PCB\LEDMatrix.PcbDoc
 OutputType3=NC Drill
 OutputName3=NC Drill Files
 OutputCategory3=Fabrication
@@ -181,7 +181,7 @@ Configuration6_Item1=BoardID=XGIILGOH|FileComment= |FileSubject=Autodetect|Gener
 [PublishSettings]
 OutputFilePath2=C:\Users\chris.carlson\Desktop\New Vault Working\Altium Designer Template\Project Template\Project Outputs\Fabrication\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for 2040Macro
+OutputBasePath2=Project Outputs for LEDMatrix-PCB
 OutputPathMedia2=Fabrication
 OutputPathMediaValue2=Fabrication
 OutputPathOutputer2=[Output Name]
@@ -230,9 +230,9 @@ MarkNetLabels3=1
 MarkPortsId3=1
 WebOutputMediumType3=FS
 OutputDirectory3=
-OutputFilePath4=F:\GitHub\Altium\2040Macro-PCB\Project Outputs for 2040Macro\Fabrication\
+OutputFilePath4=F:\GitHub\Altium\LEDMatrix-PCB\Project Outputs for LEDMatrix-PCB\Fabrication\
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for 2040Macro
+OutputBasePath4=Project Outputs for LEDMatrix-PCB
 OutputPathMedia4=Fabrication
 OutputPathMediaValue4=Fabrication
 OutputPathOutputer4=[Output Type]
@@ -249,7 +249,7 @@ RelativeOutputPath2=C:\Users\chris.carlson\Desktop\New Vault Working\Altium Desi
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
-RelativeOutputPath4=F:\GitHub\Altium\2040Macro-PCB\Project Outputs for 2040Macro\Fabrication\
+RelativeOutputPath4=F:\GitHub\Altium\LEDMatrix-PCB\Project Outputs for LEDMatrix-PCB\Fabrication\
 OpenOutputs4=1
 AddToProject4=1
 TimestampFolder4=0

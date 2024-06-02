@@ -288,94 +288,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\NC Drill\PCB_PART_NUMBER.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.G1
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.G2
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.G3
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.G4
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GM
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\NC Drill\PCB_PART_NUMBER.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\NC Drill\PCB_PART_NUMBER.TXT
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Version
 Value=0.3.5
@@ -1428,35 +1340,36 @@ Net54=NetName=IO2|NetColor=$00FF6EFF
 Net55=NetName=IO3|NetColor=$00FF6EFF
 Net56=NetName=KEEP|NetColor=$00FF6E6E
 Net57=NetName=L|NetColor=$00202020
-Net58=NetName=Low Priority General|NetColor=$00D9D9D9
-Net59=NetName=MCU_ADC_VREF|NetColor=$0090FF00
-Net60=NetName=MCU_SWCLK|NetColor=$006A00A1
-Net61=NetName=MCU_SWD|NetColor=$006A00A1
-Net62=NetName=MCU_USB_N|NetColor=$00FFFF6E
-Net63=NetName=MCU_USB_P|NetColor=$00FFFF6E
-Net64=NetName=MCU_XIN|NetColor=$00FF6EFF
-Net65=NetName=MCU_XOUT|NetColor=$00FF6EFF
-Net66=NetName=N|NetColor=$00D7C1B9
-Net67=NetName=NetP1_1|NetColor=$006A00A1
-Net68=NetName=NetP1_3|NetColor=$006A00A1
-Net69=NetName=PSU_MODE|NetColor=$00D9D9D9
-Net70=NetName=QSPI_CLK|NetColor=$00FF6EFF
-Net71=NetName=QSPI_CS|NetColor=$00FF6EFF
-Net72=NetName=QSPI_IO0|NetColor=$00FF6EFF
-Net73=NetName=QSPI_IO1|NetColor=$00FF6EFF
-Net74=NetName=QSPI_IO2|NetColor=$00FF6EFF
-Net75=NetName=QSPI_IO3|NetColor=$00FF6EFF
-Net76=NetName=SWCLK|NetColor=$006A00A1
-Net77=NetName=SWD|NetColor=$006A00A1
-Net78=NetName=System Critical|NetColor=$006A00A1
-Net79=NetName=System Critical / Sensitive|NetColor=$00FF6EFF
-Net80=NetName=System Low Priority / Debug|NetColor=$006A00A1
-Net81=NetName=USER_LED|NetColor=$00D9D9D9
-Net82=NetName=V_BUS|NetColor=$000C29DB
-Net83=NetName=VBUS|NetColor=$008000FF
-Net84=NetName=VSYS|NetColor=$000D4090
-Net85=NetName=XIN|NetColor=$00FF6EFF
-Net86=NetName=XOUT|NetColor=$00FF6EFF
+Net58=NetName=LED_VSYNC|NetColor=$00D9D9D9
+Net59=NetName=Low Priority General|NetColor=$00D9D9D9
+Net60=NetName=MCU_ADC_VREF|NetColor=$0090FF00
+Net61=NetName=MCU_SWCLK|NetColor=$006A00A1
+Net62=NetName=MCU_SWD|NetColor=$006A00A1
+Net63=NetName=MCU_USB_N|NetColor=$00FFFF6E
+Net64=NetName=MCU_USB_P|NetColor=$00FFFF6E
+Net65=NetName=MCU_XIN|NetColor=$00FF6EFF
+Net66=NetName=MCU_XOUT|NetColor=$00FF6EFF
+Net67=NetName=N|NetColor=$00D7C1B9
+Net68=NetName=NetP1_1|NetColor=$006A00A1
+Net69=NetName=NetP1_3|NetColor=$006A00A1
+Net70=NetName=PSU_MODE|NetColor=$00D9D9D9
+Net71=NetName=QSPI_CLK|NetColor=$00FF6EFF
+Net72=NetName=QSPI_CS|NetColor=$00FF6EFF
+Net73=NetName=QSPI_IO0|NetColor=$00FF6EFF
+Net74=NetName=QSPI_IO1|NetColor=$00FF6EFF
+Net75=NetName=QSPI_IO2|NetColor=$00FF6EFF
+Net76=NetName=QSPI_IO3|NetColor=$00FF6EFF
+Net77=NetName=SWCLK|NetColor=$006A00A1
+Net78=NetName=SWD|NetColor=$006A00A1
+Net79=NetName=System Critical|NetColor=$006A00A1
+Net80=NetName=System Critical / Sensitive|NetColor=$00FF6EFF
+Net81=NetName=System Low Priority / Debug|NetColor=$006A00A1
+Net82=NetName=USER_LED|NetColor=$00D9D9D9
+Net83=NetName=V_BUS|NetColor=$000C29DB
+Net84=NetName=VBUS|NetColor=$008000FF
+Net85=NetName=VSYS|NetColor=$000D4090
+Net86=NetName=XIN|NetColor=$00FF6EFF
+Net87=NetName=XOUT|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
