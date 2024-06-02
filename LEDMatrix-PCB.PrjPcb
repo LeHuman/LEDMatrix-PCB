@@ -289,12 +289,96 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for LEDMatrix-PCB\Design Rule Check - LEDMatrix.html
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\NC Drill\PCB_PART_NUMBER.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.G1
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.G2
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.G3
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.G4
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GM
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\Gerber\PCB_PART_NUMBER.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\NC Drill\PCB_PART_NUMBER.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for LEDMatrix-PCB\Fabrication\NC Drill\PCB_PART_NUMBER.TXT
 DItemRevisionGUID=
 
 [Parameter1]
 Name=Version
-Value=0.3.4
+Value=0.3.5
 
 [Parameter2]
 Name=Project
